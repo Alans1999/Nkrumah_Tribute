@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: grey;
+  }
+#main {
+  text-align: center;
+  }
+#title {
+font-family: impact, fantasy;
+font-size: 24px;
+font-weight: bold;
+margin: 20px 0;
+}
+#img-div {
+    margin: 20px 0;
+  }
+#image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+#img-caption {
+    margin-top: 10px;
+    font-style: italic;
+  }
+#tribute-info {
+    margin: 20px 0;
+    text-align: left;
+  }
+#tribute-link {
+    text-decoration: none;
+    color: orange;
+  }
